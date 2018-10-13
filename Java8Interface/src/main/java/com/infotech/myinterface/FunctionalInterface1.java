@@ -9,7 +9,6 @@ public interface FunctionalInterface1 {
 
     // can contain all methods of "Object class" as abstract
     int hashCode();
-
     boolean equals(Object obj);
 
     // can create any number of default methods
